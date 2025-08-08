@@ -1,4 +1,4 @@
-package com.tnsif.springcore_example;
+package com.tnsif.springcorebasics;
 
 
 public class Student {

@@ -1,4 +1,4 @@
-package com.tnsif.springcore_example;
+package com.tnsif.springcorebasics;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
